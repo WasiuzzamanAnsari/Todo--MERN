@@ -25,13 +25,13 @@ This Todo app lets users manage their daily tasks efficiently. You can add new t
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/WasiuzzamanAnsari/Todo--MERN.git
 cd todo-app
 
 cd backend
 npm install
 
-Create a .env file inside backend/:
+Create a .env file inside backend
 PORT=5000
 MYSQL_HOST=localhost
 MYSQL_USER=root
